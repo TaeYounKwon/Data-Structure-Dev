@@ -1,0 +1,3 @@
+C:/Users/tempe/OneDrive/바탕 화면/태윤/태윤1/Daily/etc/잡다한거/CLionProjects/project4/cmake-build-debug/CMakeFiles/project4.dir
+C:/Users/tempe/OneDrive/바탕 화면/태윤/태윤1/Daily/etc/잡다한거/CLionProjects/project4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tempe/OneDrive/바탕 화면/태윤/태윤1/Daily/etc/잡다한거/CLionProjects/project4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
