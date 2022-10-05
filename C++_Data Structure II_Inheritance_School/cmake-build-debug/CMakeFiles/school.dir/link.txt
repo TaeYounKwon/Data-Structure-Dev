@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/school.dir/main.cpp.o CMakeFiles/school.dir/date.cpp.o CMakeFiles/school.dir/person.cpp.o CMakeFiles/school.dir/student.cpp.o CMakeFiles/school.dir/professor.cpp.o  -o school 
