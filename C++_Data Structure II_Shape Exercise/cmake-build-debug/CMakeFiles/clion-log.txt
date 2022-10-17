@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/c/development/datastructureii/shapes-exercise-JackKweon
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/development/datastructureii/shapes-exercise-JackKweon/cmake-build-debug

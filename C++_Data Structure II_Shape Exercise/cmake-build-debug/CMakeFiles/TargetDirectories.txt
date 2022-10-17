@@ -1,0 +1,3 @@
+/mnt/c/development/datastructureii/shapes-exercise-JackKweon/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/development/datastructureii/shapes-exercise-JackKweon/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/development/datastructureii/shapes-exercise-JackKweon/cmake-build-debug/CMakeFiles/shapes_example.dir

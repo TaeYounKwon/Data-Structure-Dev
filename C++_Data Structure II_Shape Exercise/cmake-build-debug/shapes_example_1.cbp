@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="shapes_example_1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/development/datastructureii/shapes-exercise-JackKweon/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/development/datastructureii/shapes-exercise-JackKweon/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/development/datastructureii/shapes-exercise-JackKweon/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/development/datastructureii/shapes-exercise-JackKweon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/development/datastructureii/shapes-exercise-JackKweon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/development/datastructureii/shapes-exercise-JackKweon/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/development/datastructureii/shapes-exercise-JackKweon/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/development/datastructureii/shapes-exercise-JackKweon/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/development/datastructureii/shapes-exercise-JackKweon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/development/datastructureii/shapes-exercise-JackKweon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/development/datastructureii/shapes-exercise-JackKweon/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/development/datastructureii/shapes-exercise-JackKweon/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/development/datastructureii/shapes-exercise-JackKweon/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/development/datastructureii/shapes-exercise-JackKweon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/development/datastructureii/shapes-exercise-JackKweon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shapes_example">
+				<Option output="/mnt/c/development/datastructureii/shapes-exercise-JackKweon/cmake-build-debug/shapes_example" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/development/datastructureii/shapes-exercise-JackKweon/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/development/datastructureii/shapes-exercise-JackKweon/cmake-build-debug/Makefile&quot;  VERBOSE=1 shapes_example"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/development/datastructureii/shapes-exercise-JackKweon/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/development/datastructureii/shapes-exercise-JackKweon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/development/datastructureii/shapes-exercise-JackKweon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shapes_example/fast">
+				<Option output="/mnt/c/development/datastructureii/shapes-exercise-JackKweon/cmake-build-debug/shapes_example" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/development/datastructureii/shapes-exercise-JackKweon/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/development/datastructureii/shapes-exercise-JackKweon/cmake-build-debug/Makefile&quot;  VERBOSE=1 shapes_example/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/development/datastructureii/shapes-exercise-JackKweon/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/development/datastructureii/shapes-exercise-JackKweon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/development/datastructureii/shapes-exercise-JackKweon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/development/datastructureii/shapes-exercise-JackKweon/Equilateral.cpp">
+			<Option target="shapes_example"/>
+		</Unit>
+		<Unit filename="/mnt/c/development/datastructureii/shapes-exercise-JackKweon/Equilateral.h">
+			<Option target="shapes_example"/>
+		</Unit>
+		<Unit filename="/mnt/c/development/datastructureii/shapes-exercise-JackKweon/Rhombus.cpp">
+			<Option target="shapes_example"/>
+		</Unit>
+		<Unit filename="/mnt/c/development/datastructureii/shapes-exercise-JackKweon/Rhombus.h">
+			<Option target="shapes_example"/>
+		</Unit>
+		<Unit filename="/mnt/c/development/datastructureii/shapes-exercise-JackKweon/circle.cpp">
+			<Option target="shapes_example"/>
+		</Unit>
+		<Unit filename="/mnt/c/development/datastructureii/shapes-exercise-JackKweon/circle.h">
+			<Option target="shapes_example"/>
+		</Unit>
+		<Unit filename="/mnt/c/development/datastructureii/shapes-exercise-JackKweon/ellipse.cpp">
+			<Option target="shapes_example"/>
+		</Unit>
+		<Unit filename="/mnt/c/development/datastructureii/shapes-exercise-JackKweon/ellipse.h">
+			<Option target="shapes_example"/>
+		</Unit>
+		<Unit filename="/mnt/c/development/datastructureii/shapes-exercise-JackKweon/isosceles.cpp">
+			<Option target="shapes_example"/>
+		</Unit>
+		<Unit filename="/mnt/c/development/datastructureii/shapes-exercise-JackKweon/isosceles.h">
+			<Option target="shapes_example"/>
+		</Unit>
+		<Unit filename="/mnt/c/development/datastructureii/shapes-exercise-JackKweon/main.cpp">
+			<Option target="shapes_example"/>
+		</Unit>
+		<Unit filename="/mnt/c/development/datastructureii/shapes-exercise-JackKweon/rectangle.cpp">
+			<Option target="shapes_example"/>
+		</Unit>
+		<Unit filename="/mnt/c/development/datastructureii/shapes-exercise-JackKweon/rectangle.h">
+			<Option target="shapes_example"/>
+		</Unit>
+		<Unit filename="/mnt/c/development/datastructureii/shapes-exercise-JackKweon/shape.cpp">
+			<Option target="shapes_example"/>
+		</Unit>
+		<Unit filename="/mnt/c/development/datastructureii/shapes-exercise-JackKweon/shape.h">
+			<Option target="shapes_example"/>
+		</Unit>
+		<Unit filename="/mnt/c/development/datastructureii/shapes-exercise-JackKweon/squareRec.cpp">
+			<Option target="shapes_example"/>
+		</Unit>
+		<Unit filename="/mnt/c/development/datastructureii/shapes-exercise-JackKweon/squareRec.h">
+			<Option target="shapes_example"/>
+		</Unit>
+		<Unit filename="/mnt/c/development/datastructureii/shapes-exercise-JackKweon/squareRhom.cpp">
+			<Option target="shapes_example"/>
+		</Unit>
+		<Unit filename="/mnt/c/development/datastructureii/shapes-exercise-JackKweon/squareRhom.h">
+			<Option target="shapes_example"/>
+		</Unit>
+		<Unit filename="/mnt/c/development/datastructureii/shapes-exercise-JackKweon/triangle.cpp">
+			<Option target="shapes_example"/>
+		</Unit>
+		<Unit filename="/mnt/c/development/datastructureii/shapes-exercise-JackKweon/triangle.h">
+			<Option target="shapes_example"/>
+		</Unit>
+		<Unit filename="/mnt/c/development/datastructureii/shapes-exercise-JackKweon/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
