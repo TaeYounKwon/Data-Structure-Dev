@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/development/DataStructure/vector-master/vector-master/unit-test.cpp
+vector.h
+/mnt/c/development/DataStructure/vector-master/vector-master/vector.h
+iostream
+-
+sstream
+-
+cassert
+-
+cmath
+-
+
+/mnt/c/development/DataStructure/vector-master/vector-master/vector.h
+string
+-
+iostream
+-
+
