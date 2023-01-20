@@ -1,3 +1,0 @@
-C:/Users/SIMSTER/CLionProjects/project6_Inheritence/cmake-build-debug/CMakeFiles/project6_Inheritence.dir
-C:/Users/SIMSTER/CLionProjects/project6_Inheritence/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/SIMSTER/CLionProjects/project6_Inheritence/cmake-build-debug/CMakeFiles/rebuild_cache.dir

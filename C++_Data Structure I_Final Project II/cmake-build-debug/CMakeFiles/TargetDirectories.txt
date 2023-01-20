@@ -1,3 +1,0 @@
-C:/development/code/Data Structure Dev/Kweon_Jack(TaeYoun)_Final/cmake-build-debug/CMakeFiles/Kweon_Jack_TaeYoun__Final.dir
-C:/development/code/Data Structure Dev/Kweon_Jack(TaeYoun)_Final/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/development/code/Data Structure Dev/Kweon_Jack(TaeYoun)_Final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
