@@ -16,5 +16,6 @@ Sample4 = [1, 'abc', True, (2,3,4), '5']
     
 newTuple = (2 , 3, 4, 5, 6)
 newTuple = (1, ) + newTuple
-print(newTuple)
-    
+# print(newTuple)
+myList = list((True,'Two', (3,4), 6, [6,7]))
+print(myList)
