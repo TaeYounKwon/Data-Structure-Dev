@@ -22,4 +22,7 @@ myList = list((True,'Two', (3,4), 6, [6,7]))
 myDict = { 1:'kiwi',2:'Melon',3:'Apple'}
 myList = list(myDict.keys())
 myList = list(myDict.values())
+
+myList = [x for x in range(10) if x % 3 ==0]
+
 print(myList)
