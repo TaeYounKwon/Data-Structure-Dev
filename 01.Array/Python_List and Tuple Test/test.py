@@ -24,5 +24,5 @@ myList = list(myDict.keys())
 myList = list(myDict.values())
 
 myList = [x for x in range(10) if x % 3 ==0]
-
+myList = [x.upper() if x.isupper() else x.upper() for x in 'abCdE']
 print(myList)
