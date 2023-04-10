@@ -26,4 +26,11 @@ myList = list(myDict.values())
 myList = [x for x in range(10) if x % 3 ==0]
 myList = [x.upper() if x.isupper() else x.upper() for x in 'abCdE']
 myList = list([myList])
-print(myList)
+
+myList = [x*y for x in range(1,4) for y in range(1,5)]
+# print(myList)
+
+
+myList = [ 1, 2, 3, 4, 5]
+x = myList[2:]
+print(x)
