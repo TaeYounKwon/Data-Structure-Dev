@@ -32,5 +32,5 @@ myList = [x*y for x in range(1,4) for y in range(1,5)]
 
 
 myList = [ 1, 2, 3, 4, 5]
-x = myList [1:-1]
+x = myList [-4:4]
 print(x)
