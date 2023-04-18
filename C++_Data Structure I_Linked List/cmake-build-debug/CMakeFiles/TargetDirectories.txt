@@ -1,3 +1,0 @@
-C:/development/code/Data Structure Dev/C++_Data Structure I_Linked List/cmake-build-debug/CMakeFiles/project2_2_linkedList.dir
-C:/development/code/Data Structure Dev/C++_Data Structure I_Linked List/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/development/code/Data Structure Dev/C++_Data Structure I_Linked List/cmake-build-debug/CMakeFiles/rebuild_cache.dir

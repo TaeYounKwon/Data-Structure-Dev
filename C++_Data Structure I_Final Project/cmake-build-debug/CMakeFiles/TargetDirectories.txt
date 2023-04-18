@@ -1,3 +1,0 @@
-C:/development/code/Data Structure Dev/Data Structure I_Final Project/cmake-build-debug/CMakeFiles/untitled3.dir
-C:/development/code/Data Structure Dev/Data Structure I_Final Project/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/development/code/Data Structure Dev/Data Structure I_Final Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir

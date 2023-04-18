@@ -1,3 +1,0 @@
-C:/Users/SIMSTER/CLionProjects/project3_1_class/cmake-build-debug/CMakeFiles/project3_1_class.dir
-C:/Users/SIMSTER/CLionProjects/project3_1_class/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/SIMSTER/CLionProjects/project3_1_class/cmake-build-debug/CMakeFiles/rebuild_cache.dir

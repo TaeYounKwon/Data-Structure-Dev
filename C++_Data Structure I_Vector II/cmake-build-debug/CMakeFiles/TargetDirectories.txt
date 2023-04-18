@@ -1,3 +1,0 @@
-C:/Users/SIMSTER/CLionProjects/project1_2_vector/cmake-build-debug/CMakeFiles/project1_2_vector.dir
-C:/Users/SIMSTER/CLionProjects/project1_2_vector/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/SIMSTER/CLionProjects/project1_2_vector/cmake-build-debug/CMakeFiles/rebuild_cache.dir

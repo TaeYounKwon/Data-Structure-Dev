@@ -1,3 +1,0 @@
-C:/Users/jaedo/Desktop/Coding/postfix-tempest0211-master/postfix-tempest0211-master/out/build/x64-Debug(기본값)/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_bcd32.dir
-C:/Users/jaedo/Desktop/Coding/postfix-tempest0211-master/postfix-tempest0211-master/out/build/x64-Debug(기본값)/CMakeFiles/CMakeTmp/CMakeFiles/edit_cache.dir
-C:/Users/jaedo/Desktop/Coding/postfix-tempest0211-master/postfix-tempest0211-master/out/build/x64-Debug(기본값)/CMakeFiles/CMakeTmp/CMakeFiles/rebuild_cache.dir
