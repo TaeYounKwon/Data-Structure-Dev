@@ -28,4 +28,17 @@ Sample4 = [1, 'abc', True, (2,3,4), '5']
 # myList = list([myList])
 
 myList = [1,2,3,4,5,6,7,8]
-print(myList[1:6:2])
+print(myList[1:-2:2])
+
+# a = "abcdef"
+# print(a[-1:0:-1])
+
+# b = [1,2,3,4,5,6,7,8]
+# print(b[5:0])
+
+# myList = [1,2,3,4,5]
+# print(myList[4:0:-2])
+
+myList = [1,2,3,4,5]
+x = myList[1:-1:2] # 
+print(x) # [5,3]
