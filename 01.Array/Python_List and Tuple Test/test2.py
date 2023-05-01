@@ -10,3 +10,6 @@ myList = [1,2,3,4,5]
 tmpList = [6]
 myList.extend(tmpList)
 print(myList)
+tmp = {'a':1,'b':2,'c':3}
+myList.extend(tmp.values())
+print(myList)
