@@ -13,3 +13,9 @@ print(myList)
 tmp = {'a':1,'b':2,'c':3}
 myList.extend(tmp.values())
 print(myList)
+
+def submit():
+    print('hello')
+    return 'world'
+
+print(submit())
