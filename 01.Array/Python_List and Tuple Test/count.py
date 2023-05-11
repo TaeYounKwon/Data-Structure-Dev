@@ -1,4 +1,11 @@
-myList = [3,'3',[3],3,(3,),33]
-#',[1],(1),1,11
-a = myList.count(3) # 튜플 형태일 때는 개수 추가됨?!
+myList = [1,2,3,4,5]
+tmpList = ['1','2','3','4','5']
+tmp = [[1],[2],[8],[3],[4],[5],[6]]
+
+a = min(myList)
+b = max(tmpList)
+print(type(b))
+c = max(tmp)
 print(a)
+print(b)
+print(c)
