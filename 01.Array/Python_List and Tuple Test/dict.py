@@ -13,10 +13,31 @@
 # print(b_list)
 # print(c)
 # print(c_list)
-# # print(d)
-tmp = {1:'1',2:'2'}
-tmp2 = {3:'3',4:'4'}
-tmp3 = {5:'5',6:'6'}
-mydict = dict(모코코 = tmp, 머코코=tmp2, 무코코=tmp3)
-print(mydict)
+# print(d)
+# tmp = {1:'1',2:'2'}
+# tmp2 = {3:'3',4:'4'}
+# tmp3 = {5:'5',6:'6'}
+# mydict = dict(모코코 = tmp, 머코코=tmp2, 무코코=tmp3)
+# print(mydict)
 
+# mydict = {{1:'1',2:'2'}:'abc','A':13}
+# print(mydict)
+myDict = {1:'A','BCD':2, ('E','F'):3}
+
+# a = myDict.keys()
+# print(a) 
+# tmp = (1,2,3)
+# myDict = dict('1' = '1',bc='2',cd='3')
+# a = myDict.keys()
+# print(a)
+# a_list = list(a)
+# print(a_list)
+
+# myDict = {1:'LEFT',2:'MIDDLE',3:'LEFT'}
+# print(myDict)
+
+# key()를 사용하여 딕셔너리의 키 값 얻기
+a = myDict.values()
+a_list = list(a) 
+print(a) # dict_keys([1, 'BCD', ('E', 'F')])
+print(a_list) # [1, 'BCD', ('E', 'F')]
