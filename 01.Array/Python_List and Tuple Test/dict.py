@@ -37,7 +37,24 @@ myDict = {1:'A','BCD':2, ('E','F'):3}
 # print(myDict)
 
 # key()를 사용하여 딕셔너리의 키 값 얻기
-a = myDict.values()
-a_list = list(a) 
-print(a) # dict_keys([1, 'BCD', ('E', 'F')])
-print(a_list) # [1, 'BCD', ('E', 'F')]
+# a = myDict.values()
+# a_list = list(a) 
+# print(a) # dict_keys([1, 'BCD', ('E', 'F')])
+# print(a_list) # [1, 'BCD', ('E', 'F')]
+myDict = {1:'A','BCD':2, ('E','F'):3}
+# a = myDict.items()
+# print(a)
+# for key, val in myDict.items():
+# 	print('key = ',key, ' value = ',val)
+    
+# a = myDict.popitem()
+# print(a)
+# print(myDict)
+# del myDict[1]
+# print(myDict)
+
+print(1 in myDict)
+print(2 in myDict)
+
+print('BCD' not in myDict)
+print(('G','H') not in myDict) 
