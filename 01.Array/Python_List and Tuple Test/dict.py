@@ -57,4 +57,8 @@ print(1 in myDict)
 print(2 in myDict)
 
 print('BCD' not in myDict)
+<<<<<<< HEAD
 print(('G','H') not in myDict) 
+=======
+print(('G','H') not in myDict) 
+>>>>>>> ee9125fca3336f0e60c86424f110b27cdf8c6b60
