@@ -1,11 +1,31 @@
-# 프로즌 세트 생성
-f_set = frozenset(range(5))
+mySet = {1,2,3,4,5}
+tmpSet = {4,5,6}
 
-print(f_set) # frozenset({0,1,2,3,4})
+# '|=' 연산자 사용
+# mySet |= tmpSet
+# print(mySet) # {1, 2, 3, 4, 5, 6}
 
-# 프로즌 세트로 세트 안에 세트값 넣기
-mySet = {f_set,5,6}
-print(mySet)
+# # union() 함수 사용
+# result= mySet.union([6,7])
+# print(result) # {1, 2, 3, 4, 5, 6, 7}
+# print(mySet) # {1, 2, 3, 4, 5, 6}
 
-myDict = {f_set:'abcdef'}
-print(myDict)
+# # update() 함수 사용
+# result = mySet.update((7,8))
+# print(result) # None
+# print(mySet) # {1, 2, 3, 4, 5, 6, 7, 8}
+
+mySet &= tmpSet
+print(mySet) # {4, 5}
+
+mySet = {1,2,3,4,5}
+tmpSet = {4,5,6}
+
+result = mySet.intersection(tmpSet)
+print(result) # {4, 5}
+
+result = mySet.intersection_update(tmpSet)
+print(mySet) # {4, 5}
+print(result) # None
+
+result = mySet.symmetric_difference_update
